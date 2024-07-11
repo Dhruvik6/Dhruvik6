@@ -1,5 +1,13 @@
-## Hi there 👋
-
+![Web 1920 – 1](https://github.com/Dhruvik6/Dhruvik6/assets/25507944/864b2d64-6ad4-430c-97ec-b6df90694338)
+<p align="center">
+  <b>A software engineer who loves building products.</b><br> <br>
+  <a href="https://www.linkedin.com/in/d-kakadiya/" target="_blank">LinkedIn</a> |
+  <a href="" target="_blank">Portfolio</a> |
+  <a href="https://www.behance.net/dhruvikk6e231" target="_blank">Behance</a> |
+  <a href="" target="_blank">Dribbble</a> |
+   <a href="https://x.com/batakapuri" target="_blank">Twitter</a> |
+  <br><br>
+</p>
 <!--
 **Dhruvik6/Dhruvik6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
