@@ -1,4 +1,4 @@
-![Web 1920 – 1](https://github.com/Dhruvik6/Dhruvik6/assets/25507944/864b2d64-6ad4-430c-97ec-b6df90694338)
+![Web 1920 – 1](https://github.com/Dhruvik6/Dhruvik6/assets/25507944/d754c1dd-d0ed-4e47-9f08-9426432d0ba8)
 <p align="center">
   <b>A software engineer who loves building products.</b><br> <br>
   <a href="https://www.linkedin.com/in/d-kakadiya/" target="_blank">LinkedIn</a> |
