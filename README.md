@@ -2,10 +2,6 @@
 <p align="center">
   <b>A software engineer who loves building products.</b><br> <br>
   <a href="https://www.linkedin.com/in/d-kakadiya/" target="_blank">LinkedIn</a> |
-  <a href="" target="_blank">Portfolio</a> |
-  <a href="https://www.behance.net/dhruvikk6e231" target="_blank">Behance</a> |
-  <a href="" target="_blank">Dribbble</a> |
-   <a href="https://x.com/batakapuri" target="_blank">Twitter</a> |
   <br><br>
 </p>
 <!--
